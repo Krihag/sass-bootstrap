@@ -1,0 +1,23 @@
+{
+  "name": "css-frameworks",
+  "version": "0.0.1",
+  "description": "Social media application written with Bootstrap and Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krihag/sass-bootstrap.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "SASS"
+  ],
+  "author": "Kristian Hagesæter<kristian.hageseter@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krihag/sass-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Krihag/sass-bootstrap#readme"
+}
