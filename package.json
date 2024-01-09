@@ -4,7 +4,7 @@
   "description": "Social media application written with Bootstrap and Sass",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "sass input:output"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Krihag/sass-bootstrap/issues"
   },
-  "homepage": "https://github.com/Krihag/sass-bootstrap#readme"
+  "homepage": "https://github.com/Krihag/sass-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  },
+  "devDependencies": {
+    "sass": "^1.69.7"
+  }
 }
